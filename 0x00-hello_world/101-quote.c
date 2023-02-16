@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <unistd.h>
 /**
  * main - A c programming that prints a line to the standard error
